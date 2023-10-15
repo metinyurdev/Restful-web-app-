@@ -7,6 +7,8 @@
 
 ![Terminalden output çıkışı](https://github.com/metinyurdev/Restful-web-app-/blob/main/resim-2.png)
 
+![Mesajın Localhostta görüntülenmesi](https://github.com/metinyurdev/Restful-web-app-/blob/main/resim-3.png)
+
 
 
 
